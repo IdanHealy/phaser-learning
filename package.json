@@ -1,0 +1,19 @@
+{
+  "name": "first-servers",
+  "version": "1.0.0",
+  "main": "localhost.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaerman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "phaser": "^3.55.2"
+  },
+  "description": "localhost",
+  "repository": {
+    "type": "git",
+    "url": "-"
+  }
+}
